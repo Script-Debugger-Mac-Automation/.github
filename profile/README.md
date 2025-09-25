@@ -20,7 +20,7 @@ With Script Debugger, users can automate complex tasks, integrate with native ma
 
 Whether you are a system administrator, developer, or power user, Script Debugger delivers the precision and performance needed for professional scripting on Mac.
 
-![Script Debugger Interface](https://static.macupdate.com/screenshots/351011/m/script-debugger-screenshot.webp?v=1678288495)
+![Script Debugger Interface](https://cdn.mgig.fr/2021/05/mg-a70bce84-w2496-w828-w1300.jpg)
 
 ---
 
