@@ -1,7 +1,7 @@
 # Script Debugger – Advanced Scripting Tool for macOS
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/7475/l/script-debugger-logo.png?v=1678288492" alt="Script Debugger Logo" width="256" height="256">  
+<img src="https://latenightsw.com/wordpress/wp-content/uploads/2018/03/cropped-icon_512x512.png" alt="Script Debugger Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
